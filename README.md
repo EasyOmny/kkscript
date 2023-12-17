@@ -15,7 +15,7 @@
 > Работа с NoSQL базами данных kkdb через .kks файл.
 >> ***.py файл***
 >> ```
->> from kkscript import script
+>> from kkScript import script
 >>
 >> script("code")
 >> ```
@@ -42,7 +42,7 @@
 > Работа с NoSQL базами данных kkdb через .py файл
 >> ***.py файл***
 >> ```
->> from kkscript import kkdb
+>> from kkScript import kkdb
 >>
 >>db1 = kkdb.DB("db", "db1")
 >>
