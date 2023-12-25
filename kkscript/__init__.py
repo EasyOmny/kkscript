@@ -1,4 +1,4 @@
-import kkdb
+from .kkdb import *
 
 class script():
     def __init__(self, path):
